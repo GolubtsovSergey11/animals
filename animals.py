@@ -68,3 +68,4 @@ goat2 = Goat(name='Копыта', weight=18, sound='бебебе')
 
 print(f'Общий вес всех животных {sum(Animals.total_weight)} кг.')
 print(f'Самое тяжелое животное по имени {Animals.max_weight_name}, весит {Animals.max_weight} кг.')
+
